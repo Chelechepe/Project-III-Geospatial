@@ -1,7 +1,7 @@
 #
 
 # Project III Geospatial
-## Choosing vest location for new Office venue
+## Choosing BEST location for new Office venue
 ### By: Edgard Cuadra
 ### Date: August 1st 2022
 
@@ -202,7 +202,9 @@ The following listing complies with most of the criterias with the exception to 
 
 **Airport**:we couldnt comply with all the requirements that some employees have if we where to have proximity to the airport the number of other venues would decrease proportionaly to the inverse of the distance.
 
-**Stadium**: the closest stadium is the "Mercedez Benz Arena" which is 20km away, if we where closer to the Stadium we would have to be 10 km away from startup locations
+**Stadium**: the closest stadium is the "Mercedez Benz Arena" which is 20km away, if we where closer to the Stadium we would have to be 10 km away from startup locations.
+
+Given the results of the search we sugest that the best option of listings is the following one:
 
 **Listing**:
 
