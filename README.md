@@ -10,7 +10,7 @@
 ![local_picture](./Images/Choosing_office.jpg)
 
 #
-## Inicial conditions:
+## Initial conditions:
 #
 
 The goal is to place the new company offices in the best place for the company to grow. You have to find a place that more or less covers all the following requirements (note that it's impossible to cover all requirements, so you have to prioritize at your glance):
@@ -72,7 +72,7 @@ Even though we have a filtered list, this list displays all the companies that h
 
 Now that we have the information we want we can check the coordinates for all the 94 companies we extracted from the database. in this case we have 17 missing coordinates so we will have to drop those since there is no information for us to take decisions. as a result we get a dataframe of 77 startups in the area of Berlin .<br/>
 
-Sample:
+Sample:<br/>
 ![local_picture](./Images/startup_dataframe.jpg)
 
 Using the folium library we proceed to display the coordinates of the startups into a heat map. this will allow us to see where there is the highest concentration on startups in the city of "Berlin"
@@ -190,7 +190,7 @@ Now we can use a Geojson polygon map to display the neighborhoods in Berlin and 
 
 ![local_picture](./Images/Map_mitten_listings_with_geojson.jpg)
 
-This final map integrates: Markers, Geo-polygons, Listings and prices. we can see all the venues of interest to our colegues and the red makers that are bigger than the rest is the location of our listings, with this information we can nos proceed to make a decision.
+This final map integrates: Markers, Geo-polygons, Listings and prices. we can see all the venues of interest to our colegues and the red makers that are bigger than the rest is the location of our listings, with this information we can now proceed to make a decision.
 
 ![local_picture](./Images/Map_mitten_listings.jpg)
 
